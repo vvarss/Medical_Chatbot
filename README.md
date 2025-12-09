@@ -3,6 +3,7 @@
 
 An intelligent medical-query assistant built using Retrieval-Augmented Generation (RAG).
 This project enhances the accuracy and safety of AI-generated responses by grounding answers in verified medical documents supplied in the vector database.
+This chatbot focusses mainly on heart diseases.
 
 ## 🚀Features
 * RAG-powered medical question answering
